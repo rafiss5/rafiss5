@@ -1,4 +1,4 @@
-:coffee: Bem-vindo ao meu GitHub!
+ Bem-vindo ao meu Perfil!
 
 Sou Rafael Araújo, estudante de Análise e Desenvolvimento de Sistemas, e este espaço é dedicado aos meus projetos e exercícios durante minha jornada de aprendizado em programação. ☕
 
